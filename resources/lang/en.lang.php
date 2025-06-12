@@ -1,0 +1,5 @@
+'Profile' => 'Profile',
+'Settings' => 'Settings',
+'Profile Photo' => 'Profile Photo',
+'Upload your photo.' => 'Upload your photo.',
+'Image should be at least 140px x 140px' => 'Image should be at least 140px x 140px', 
